@@ -1,0 +1,9 @@
+.App__user {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: green;
+}
+
+.App__user:first-of-type {
+    margin-right: 40px;
+}
